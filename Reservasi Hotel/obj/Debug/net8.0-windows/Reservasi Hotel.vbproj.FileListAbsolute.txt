@@ -1,0 +1,17 @@
+D:\UAS\Reservasi Hotel\Reservasi Hotel\bin\Debug\net8.0-windows\Reservasi Hotel.exe
+D:\UAS\Reservasi Hotel\Reservasi Hotel\bin\Debug\net8.0-windows\Reservasi Hotel.deps.json
+D:\UAS\Reservasi Hotel\Reservasi Hotel\bin\Debug\net8.0-windows\Reservasi Hotel.runtimeconfig.json
+D:\UAS\Reservasi Hotel\Reservasi Hotel\bin\Debug\net8.0-windows\Reservasi Hotel.dll
+D:\UAS\Reservasi Hotel\Reservasi Hotel\bin\Debug\net8.0-windows\Reservasi Hotel.pdb
+D:\UAS\Reservasi Hotel\Reservasi Hotel\obj\Debug\net8.0-windows\Reservasi_Hotel.Form1.resources
+D:\UAS\Reservasi Hotel\Reservasi Hotel\obj\Debug\net8.0-windows\Reservasi_Hotel.Resources.resources
+D:\UAS\Reservasi Hotel\Reservasi Hotel\obj\Debug\net8.0-windows\Reservasi Hotel.vbproj.GenerateResource.cache
+D:\UAS\Reservasi Hotel\Reservasi Hotel\obj\Debug\net8.0-windows\Reservasi Hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAS\Reservasi Hotel\Reservasi Hotel\obj\Debug\net8.0-windows\Reservasi Hotel.AssemblyInfoInputs.cache
+D:\UAS\Reservasi Hotel\Reservasi Hotel\obj\Debug\net8.0-windows\Reservasi Hotel.AssemblyInfo.vb
+D:\UAS\Reservasi Hotel\Reservasi Hotel\obj\Debug\net8.0-windows\Reservasi Hotel.vbproj.CoreCompileInputs.cache
+D:\UAS\Reservasi Hotel\Reservasi Hotel\obj\Debug\net8.0-windows\Reservasi Hotel.dll
+D:\UAS\Reservasi Hotel\Reservasi Hotel\obj\Debug\net8.0-windows\refint\Reservasi Hotel.dll
+D:\UAS\Reservasi Hotel\Reservasi Hotel\obj\Debug\net8.0-windows\Reservasi Hotel.pdb
+D:\UAS\Reservasi Hotel\Reservasi Hotel\obj\Debug\net8.0-windows\Reservasi Hotel.genruntimeconfig.cache
+D:\UAS\Reservasi Hotel\Reservasi Hotel\obj\Debug\net8.0-windows\ref\Reservasi Hotel.dll
