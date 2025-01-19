@@ -3,6 +3,13 @@
 ![image](https://github.com/user-attachments/assets/b4b38add-b945-4c58-932c-ce36fa6238b3)
 
 Source Code
+
+
+
+
+
+
+
                                                                   Public Class Form1
                                                                       Private hargakamar, dinner, lunch, breakfast, jmlorang, tmbahan, total, diskon, lamainap, hf, tdiskon As Double
                                                                       Dim fasilitas, methodpembayaran As String
