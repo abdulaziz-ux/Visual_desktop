@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/b4b38add-b945-4c58-932c-ce36fa6238b3)
 
 
-- Detail Aplikasi
+- Detail Aplikasi Menggunakan Microsoft Visual studio
 
 1. Data Pembeli
 Nama Pembeli: Input untuk mengisi nama pelanggan.
